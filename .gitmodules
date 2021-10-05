@@ -1,0 +1,6 @@
+[submodule "Code/App"]
+	path = Code/App
+	url = git@github.com:Semester4Duo/Project-2-App.git
+[submodule "Code/Backend"]
+	path = Code/Backend
+	url = git@github.com:Semester4Duo/Project-2-Backend.git
